@@ -1,1 +1,3 @@
 # Shopping_cart
+
+Its a shooping cart project that calculate price and items quantity automatically....
